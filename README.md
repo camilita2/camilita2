@@ -2,6 +2,7 @@
 CAMILA RAMIREZ SUAREZ 
 
 🎓 **Data Science Student at Brigham Young University–Idaho**
+
 📊 Focused on **SQL, Python, R, and Applied Statistics**  
 🔬 Passionate about using data science for **health analytics, insurance, and predictive modeling**  
 
